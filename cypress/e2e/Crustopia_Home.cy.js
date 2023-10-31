@@ -10,5 +10,7 @@ describe("Crustopia Pizzeria - Testing E2E",()=>{
     const carritoPage= new CarritoPage();
     const reciboPage = new ReciboPage();
 
-    
-})
+    it("Testing E2E: Usuario selecciona los productos y realiza la compra",()=>{
+        cy.visit(" ");
+    });
+});
