@@ -1,0 +1,9 @@
+{
+    "productos":{
+        "producto1": "Pizza Española",
+        "precio1": 4500,
+        "producto2": "Cerveza",
+        "precio2": 3400
+
+    }
+}
